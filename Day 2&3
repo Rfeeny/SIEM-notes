@@ -1,0 +1,29 @@
+SIEM day 2&3
+Slpunk
+
+Splunk is a big data solution. The SIEM is just a very useful part of it.
+
+There are many applications that can be downloaded on splunk. Add-ons are smaller downloadable features. Suites are large collections of applications that can be used for specific
+fields.
+
+stopped 38.17
+
+Real time search
+realtime data that continues to update
+
+Relative search
+Returns data by date range, time. results will not change
+
+Alltime search 
+returns all data
+
+SPL splunk processing language
+user=John
+src_ip=0.0.0.0
+
+Boolean expressions AND OR NOT
+
+Piping and commands like head and sort can be used
+
+
+
